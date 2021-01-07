@@ -1,0 +1,45 @@
+
+
+
+
+#함수 function
+
+"철수: 안녕, 영희!"
+"영희: 안녕, 철수!"
+
+def boring(a,b):
+print("%s: 안녕, %s!" % a,b)
+print("%s: 안녕, %s!" % b,a)
+
+~
+boring(철수, 영희)
+"철수: 안녕, 영희!"
+"영희: 안녕, 철수!"
+
+
+def pulpfiction(a,b,c,d):
+
+if a == "fuck you"
+print("%s" % b)
+
+elif a=="i've found you for a long time."
+print("%s" % c)
+
+else:
+print("%s" % d)
+
+
+
+pulpfiction ("fuck you","kill bill","i've been waiting for you,"who the hell are you?")
+~"kill bill" 
+
+
+
+def dsum(x,y)
+result = x**y
+return result
+
+a= dsum(5,2)
+print(a)=25
+
+
